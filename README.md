@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## PlayShifu
+## PlayShifu Online Forms
 
 1. Clone this repository
 2. Go to dir "online_forms" and in cmd ---> "npm i" 
