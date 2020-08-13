@@ -13,9 +13,9 @@ The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
 1. Clone this repository
-2. Go to dir online_forms and ---> "npm i" 
+2. Go to dir "online_forms" and in cmd ---> "npm i" 
    Once finished, run "npm start".
-3. Go to dir server and ----> "npm i"  
+3. Go to dir "server" and in cmd ----> "npm i"  
    Once finished, run "node app.js" or "nodemon"
 4. Open http://localhost:3000 to view the project
 
