@@ -1,5 +1,5 @@
 // Set default node environment to development
-const PORT = process.env.VENDOR_NODE_ENV || 8800;
+const PORT = process.env.VENDOR_NODE_ENV || 8888;
 const cors = require("cors");
 const bodyParser = require("body-parser");
 const path = require("path");
